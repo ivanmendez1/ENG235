@@ -1,6 +1,6 @@
 Introduction |
 My name is Ivan Mendez and I am taking this course to because it is required to graduate. I am a student here at Pierce and at UWT.
-I have been admitted to the Computer Science and Systems major and I'm here at Pierce to finish up some classes that are required for the degree. [Search] (google.com)
+I have been admitted to the Computer Science and Systems major and I'm here at Pierce to finish up some classes that are required for the degree.
 
 Initial underst. |
 I did not know what technical writing was until I started this class. At first I thought it explored the structure and layout of writing, but 
