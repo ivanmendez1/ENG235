@@ -5,7 +5,7 @@ that matched the images. When we were allowed to use more pieces to the build I 
 I was alot more content with the build. I made a rough draft of the instructions, then I created the final composition, where I took
 pictures and wrote a very brief description with each set of instructions. I made it so that itd look like  list and after exchanging instructions
 with other people in the class, I got back some good feedback. I did not lay out all the pieces of the build at the start so I will make sure to 
-include that in the revision. Some of the formatting was off, but here is are the [instructions.](https://tinyurl.com/y667ywr2)
+include that in the revision. Some of the formatting was off, I'll learn how to fix it, but for now here is the set of [instructions.](https://tinyurl.com/y667ywr2)
 
 **Audience** |
 I wrote this composition to be understood by anyone over the age of 8, or at least that was the goal. It was very important to get feedback
