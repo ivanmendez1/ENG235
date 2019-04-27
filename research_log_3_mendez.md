@@ -8,3 +8,9 @@ was it that I needed to ask? _Are we creating  a question about how to use Googl
 whether they would use it at all?_ In the end, we knew we had to see if people were interested in learning how to submit and access their files 
 online, rather than just doing it on their personal computer. That was the mindset we had as we created these questions.
 
+**Audience** | The audience is the student. The purpose is to learn to use a cloud service. The medium is through a public website. This is how were deciding to move forward with this project, however, it is not strictly confined to just these answers. In reality, the audience is anyone and everyone who'd want to learn, but were creating the tutorial based on the needs of students who might want the accessibility of a cloud and how it can improve their quality of life while at school. The medium is a public website, like I said, it could be for anyone. However, we will place these tutorials here because it is a collection of lessons that the student can access to help them with school work. To be frank, that is the purpose of any of this, to aid the student.
+
+**Outcome** | The biggest outcome this week was learning the scope of shaping the way we will ask people about how we can improve their quality of life for school work. That is one of the subtopics of information competency. Although it was a short week, I learned how to ask people if they need help, whether they know it or not. It is up to me to decide how I will help based on how they answered. That is the gretest takeway from what I learned this week.
+
+
+
